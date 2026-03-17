@@ -6,4 +6,4 @@ Este repositório está sendo usado para apresentar os conceitos de git, como ve
 
 Este projeto está sendo desenvolvido em aula. Novas funcionalidades serão adicionadas.
 
-Testando novas mudanças atravéis da ide do visual studio code
+Testando novas mudanças atravéis do visual studio code
